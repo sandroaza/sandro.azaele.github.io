@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -312,4 +312,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
