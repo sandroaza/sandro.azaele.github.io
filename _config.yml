@@ -83,12 +83,12 @@ author:
   name             : "Sandro Azaele"
   avatar           : "profile.png"
   bio              : "Associate Professor in Physics at the University of Padova"
-  location         : "Padova"
+  location         : "Padova (Italy)"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.it/citations?user=Y-7BvQ8AAAAJ&hl=it"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Sandro_Azaele2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://uk.linkedin.com/public-profile/in/sandroazaele?challengeId=AQGqMpgeWXjsIgAAAXQboxHjBsYRLNpaKpvBo9_9WMUDa7lHhgrRFXFS_7P0vuaL6N1XymnISHRVAtCI7LdjCs3rP-E_Tkhr_g&submissionId=712e37f5-b4ea-2d16-a320-bd4580a92f08"
+  orcid            : "http://orcid.org/0000-0002-5153-4833"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
