@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sandro Azaele"
   avatar           : "profile.png"
-  bio              : "Associate Professor in Physics at the University of Padova
-                      #<br><br><img src='/images/logoUniPDcompleto.png' alt='University of Padua'><br>"
+  bio              : "Associate Professor in Physics at the University of Padova"
+  # <br><br><img src='/images/logoUniPDcompleto.png' alt='University of Padua'><br>
   location         : Padova (Italy) #[Padova (Italy)](https://www.google.it/maps/place/Padova+PD/@44.0582946,9.1740604,6.38z/data=!4m5!3m4!1s0x477eda5841ab30cf:0xc18236edaa1a2e2c!8m2!3d45.4064349!4d11.8767611).
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
