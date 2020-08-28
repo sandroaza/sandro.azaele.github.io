@@ -1,13 +1,20 @@
 ---
-title: "Paper Title Number 1"
+title: "Finite-time and Fixed-time consensus of multi-agent networks with pinning control and noise perturbation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: 
+excerpt: 
+date: 2019
+venue: 'SIAM J. Appl. Math'
+paperurl: 'https://epubs.siam.org/doi/abs/10.1137/18M1174143'
+citation: 'Y. Sun, W. Li, H. Shi, D. Zhao & S. Azaele
+Finite-time and Fixed-time consensus of multi-agent networks with pinning control and noise perturbation
+SIAM J. Appl. Math., 79(1), 111-130 (2019).'
 ---
+Y. Sun, W. Li, H. Shi, D. Zhao & S. Azaele
+Finite-time and Fixed-time consensus of multi-agent networks with pinning control and noise perturbation
+SIAM J. Appl. Math., 79(1), 111-130 (2019).
+ <i>Journal 1</i>. 1(1).
+
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
