@@ -3,7 +3,7 @@ title: "Finite-time and Fixed-time consensus of multi-agent networks with pinnin
 collection: publications
 permalink: 
 excerpt: 
-date: 2019
+date: 2019-10-01
 venue: 'SIAM J. Appl. Math'
 paperurl: 'https://epubs.siam.org/doi/abs/10.1137/18M1174143'
 citation: 'Y. Sun, W. Li, H. Shi, D. Zhao & S. Azaele
