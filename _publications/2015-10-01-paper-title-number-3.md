@@ -8,6 +8,6 @@ year: '2019'
 venue: 'SIAM J. Appl. Math.'
 authors: 'Y. Sun, W. Li, H. Shi, D. Zhao, S. Azaele'
 paperurl: 'https://epubs.siam.org/doi/abs/10.1137/18M1174143'
-citation: 'Y. Sun, W. Li, H. Shi, D. Zhao, S. Azaele (2019) Finite-time and Fixed-time consensus of multi-agent networks with pinning control and noise perturbation. <i>SIAM J. Appl. Math.</i>, 79(1), 111-130 1(3).'
+citation: 'Y. Sun, W. Li, H. Shi, D. Zhao, S. Azaele (2019) Finite-time and Fixed-time consensus of multi-agent networks with pinning control and noise perturbation. <i>SIAM J. Appl. Math.</i>, 79(1), 111-130'
 doi: '10.1137/18M1174143'
 ---
