@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I studied theoretical physics at the University of Trieste (Italy), where I discussed a thesis on quantum computation.
+I studied theoretical physics at the University of Trieste (Italy), where I discussed a MSc dissertation on quantum computation.
 
 In 2007 I earned my PhD in Physics at the University of Padova (Italy). During my PhD some open fundamental questions in biology and ecology fascinated me, so I decided to start studying theoretical ecology with a statistical mechanics approach.
 
