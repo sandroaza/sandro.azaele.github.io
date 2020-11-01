@@ -13,7 +13,7 @@ I studied theoretical physics at the [University of Trieste](http://www-dft.ts.i
 
 In 2007 I earned my PhD in Physics at the [University of Padova](https://www.unipd.it) (Italy). During my PhD some open fundamental questions in biology and ecology fascinated me, so I decided to start studying theoretical ecology with a statistical mechanics approach.
 
-In 2007 I moved to [Princeton](https://www.princeton.edu) (USA), where I was research associate and I studied macroecological patterns on river topologies as well as spreading of diseases.
+In 2007 I moved to [Princeton University](https://www.princeton.edu) (USA), where I was research associate and I studied macroecological patterns on river topologies as well as spreading of diseases.
 
 In 2009 I moved to the [University of Leeds](http://www.leeds.ac.uk) (UK) as research fellow. Here I developed mathematical methods to upscale and downscale biodiversity information and studied stochastic partial differential equations of biological interest.
 
