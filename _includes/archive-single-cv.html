@@ -27,14 +27,12 @@
       </div>
     {% endif %}
     <p>
-      {% if post.link %}
-        {{authors}}, <a href="{{ post.link }}" target="_blank">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>, <i>{{venue}}</i>, {{year}}.
-      {% else if post.doi %}
-      {{authors}}, <a href="{{ post.link }}" target="_blank">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>, <i>{{venue}}</i>, {{year}}. DOI: {{doi}}
+      {% if post.doi %}
+      {{ authors }}, <a href="https://doi.org/{{ post.doi }}" rel="permalink" target="_blank">{{ title }}</a>, <i>{{ venue }}</i> ({{ year }}). DOI: {{ doi }}.
       {% else %}
-        {{authors}}, <a href="{{ base_path }}{{ post.url }}" rel="permalink" target="_blank">{{ title }}</a>, <i>{{venue}}</i>, {{year}}.
+      {{ authors }}, <a href="{{ post.paperurl }}" rel="permalink" target="_blank">{{ title }}</a>, <i>{{ venue }}</i> ({{ year }}).
       {% endif %}
-    </p>
+     </p>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
