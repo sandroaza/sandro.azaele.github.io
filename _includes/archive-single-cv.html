@@ -28,9 +28,9 @@
     {% endif %}
     <p>
       {% if post.doi %}
-      {{ authors }}, <a href="https://doi.org/{{ post.doi }}">{{ title }}</a>, <i>{{ venue }}</i> ({{ year }}). DOI: {{ doi }}.
+      {{ authors }}, <a href="https://doi.org/{{ post.doi }}" target="_blank">{{ title }}</a>, <i>{{ venue }}</i> ({{ year }}). DOI: {{ doi }}.
       {% else %}
-      {{ authors }}, <a href="{{ post.paperurl }}" rel="permalink" target="_blank">{{ title }}</a>, <i>{{ venue }}</i> ({{ year }}).
+      {{ authors }}, <a href="{{ post.paperurl }}" target="_blank">{{ title }}</a>, <i>{{ venue }}</i> ({{ year }}).
       {% endif %}
      </p>
     {% if post.read_time %}
