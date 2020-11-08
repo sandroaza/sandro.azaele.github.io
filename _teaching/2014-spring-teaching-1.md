@@ -1,20 +1,5 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
+While I was a lecturer in the School of Mathematics at the [University of Leeds](http://www.leeds.ac.uk) (UK), I have taught <b>Special Relativity</b> and <b>Advanced Mathematical Methods</b>. 
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Currently I teach Introductory modules in Maths and Physics to freshmen in the [School of Agricultural Sciences and Veterinary Medicine](https://www.agrariamedicinaveterinaria.unipd.it/en/). I also teach "Advanced Topics in Statistical Mechanics" with Prof. A. Maritan, which is a PhD course for graduate students in Physics.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+If you have questions about my modules, you should contact me via email; if you are looking for lecture notes, exercises or workshops of my modules, all the relevant material will be posted on [Moodle](https://elearning.unipd.it/scuolaamv/).
