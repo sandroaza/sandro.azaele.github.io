@@ -1,11 +1,7 @@
 ---
-title: 
+title: 'Taught modules'
 collection: teaching
-type: 
-permalink: 
-venue: 
 date: 2020-01-01
-location: 
 ---
 
 While I was a lecturer in the School of Mathematics at the [University of Leeds](http://www.leeds.ac.uk) (UK), I have taught <b>Special Relativity</b> and <b>Advanced Mathematical Methods</b>. 
