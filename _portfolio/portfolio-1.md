@@ -1,7 +1,6 @@
 ---
 title: "Projects"
-url: https://www.liphlab.com/#research 
-excerpt: "We are currently recruiting PhD students and Post-Docs (starting early 2023). If you have a solid background in Mathematics or Physics and have a strong interest in Statistical Mechanics, Stochastic Processes, Disordered Systems, etc., applied to ecosystems, then this is the right Lab for you. Get in touch!"
+excerpt: "We are currently recruiting PhD students and Post-Docs (starting early 2023). If you have a solid background in Mathematics or Physics and have a strong interest in Statistical Mechanics, Stochastic Processes, Disordered Systems, etc., applied to ecosystems, then this is the right Lab for you. [Get in touch](https://www.liphlab.com/#research) with me!"
 collection: portfolio
 
 ---
