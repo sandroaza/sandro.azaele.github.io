@@ -19,4 +19,4 @@ Since 2012 I have been a Lecturer in Applied Mathematics in the [School of Mathe
 
 In 2016 I was invited as a visiting fellow of the [Isaac Newton Institute for Mathematical Sciences](https://www.newton.ac.uk) (Cambridge) in the programme ["Stochastic Dynamical Systems in Biology: Numerical Methods and Applications"](https://www.newton.ac.uk/event/sdb). Here are some of the most interesting and intriguing [seminars](https://www.newton.ac.uk/event/sdb/seminars).
 
-In 2019 I moved to the Unversity of Padova as Associate Professor in the [Department of Physics and Astronomy "G. Galileo"](https://www.dfa.unipd.it) where I work in the [Laboratory of Interdisciplinary Physics](https://www.liphlab.com) in collaboration with Prof. Amos Maritan and Dr. Samir S. Suweis.
+In 2019 I moved to the Unversity of Padova as Associate Professor in the [Department of Physics and Astronomy "G. Galileo"](https://www.dfa.unipd.it) where I work in the [Laboratory of Interdisciplinary Physics](https://www.liphlab.com) in collaboration with Prof. Amos Maritan and Prof. Samir S. Suweis.
