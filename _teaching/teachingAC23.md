@@ -1,5 +1,5 @@
 ---
-title: "Applied Mathemtics and Physics"
+title: "Applied Mathematics and Physics"
 collection: teaching
 type: "Undergraduate course (AC)"
 permalink: /teaching/teachingAC23
