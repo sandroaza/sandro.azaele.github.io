@@ -6,7 +6,7 @@ excerpt: "<p> We are currently recruiting PhD students and Post-Docs (starting e
 Post-doctoral candidates who are able to carry out active multidisciplinary research in any of the broad areas of Statistical Physics, data analysis or numerical simulations are strongly encouraged to apply. </p>
 
 <br>
-Check what we do in the [Lab](https://www.liphlab.com/#research) and get in touch with [me](sandro.azaele@unipd.it)!"
+Check what we do in the [Lab](https://www.liphlab.com/#research) and get in touch with me!"
 
 collection: portfolio
 
