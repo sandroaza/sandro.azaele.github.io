@@ -1,7 +1,7 @@
 ---
-title: "Moodle"
+title: "Applied Mathematics and Physics"
 collection: teaching
-permalink: https://samv.elearning.unipd.it
+permalink: "https://didattica.unipd.it/off/2022/LT/AV/AV2378/000ZZ/AVP7077508/N0"
 venue: "Department of Physics and Astronomy 'G. Galileo' "
 date: 2023-01-01
 location: "City, Country"
