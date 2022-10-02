@@ -1,6 +1,5 @@
 ---
 title: "Projects"
-permalink: /portfolio/portfolio-1
 excerpt: "Here you can find a list of open positions for PhD students and Post-doctoral fellows"
 collection: portfolio
 ---
