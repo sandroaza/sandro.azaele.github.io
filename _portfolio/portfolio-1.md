@@ -1,7 +1,7 @@
 ---
 title: "Projects"
-collection: portfolio
 excerpt: "Here you can find a list of open positions for PhD students and Post-doctoral fellows"
+collection: portfolio
 ---
 
 We are currently recruiting PhD students and Post-Docs (starting early 2023). If you have a solid background in Mathematics or Physics and have a strong interest in Statistical Mechanics, Stochastic Processes, Disordered Systems, etc., applied to Biological Systems, then this is the right Lab for you.
