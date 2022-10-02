@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-permalink: https://www.liphlab.com/#research 
+url: https://www.liphlab.com/#research 
 excerpt: "<p> We are currently recruiting PhD students and Post-Docs (starting early 2023). If you have a solid background in Mathematics or Physics and have a strong interest in Statistical Mechanics, Stochastic Processes, Disordered Systems, etc., applied to Biological Systems, then this is the right Lab for you.  </p>
 
 <p>
