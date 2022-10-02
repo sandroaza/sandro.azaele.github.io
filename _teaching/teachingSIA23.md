@@ -2,7 +2,7 @@
 title: "Analisi Matematica e Fisica"
 collection: teaching
 type: "Undergraduate course (SIA)"
-permalink: /teaching/teachingAC23
+permalink: /teaching/teachingSIA23
 venue: "Vicenza, via Margherita 84"
 date: 2023-01-01
 location: "City, Country"
