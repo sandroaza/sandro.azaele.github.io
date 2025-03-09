@@ -2,7 +2,7 @@
 title: "Models of Theoretical Physics"
 collection: teaching
 type: "Master course (Physics and Physics of Data)"
-permalink https://en.didattica.unipd.it/off/2024/LM/SC/SC2382/002PD/SCP8083597/N0
+permalink "https://en.didattica.unipd.it/off/2024/LM/SC/SC2382/002PD/SCP8083597/N0"
 venue: "Padova, Via Marzolo 8"
 date: 2024-01-09
 location: "City, Country"
