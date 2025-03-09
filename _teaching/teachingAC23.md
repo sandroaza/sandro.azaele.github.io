@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course (AC)"
 permalink: https://didattica.unipd.it/off/2024/LT/AV/AV2378/000ZZ/AVP7077508/N0
 venue: "Legnaro, Agripolis"
-date: 2023-01-01
+date: 2025-01-01
 location: "City, Country"
 ---
 
