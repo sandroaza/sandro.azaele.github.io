@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course (SIA)"
 permalink: /teaching/teachingSIA23
 venue: "Vicenza, via Margherita 84"
-date: 2023-01-01
+date: 2024-01-09
 location: "City, Country"
 ---
 
