@@ -5,7 +5,7 @@ permalink:
 excerpt: "Journal article"
 date: 2025-11-03
 year: '2025'
-venue: bioRxiv, <b>2025</b>'
+venue: bioRxiv, <b></b>
 authors: 'D. Zanchetta, A. Maritan and S. Azaele'
 paperurl: https://www.biorxiv.org/content/10.1101/2024.08.01.606184v1
 preprinturl: 
