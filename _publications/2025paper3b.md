@@ -5,9 +5,10 @@ permalink:
 excerpt: "Journal article"
 date: 2025-11-03
 year: '2025'
-venue: bioRxiv, <b></b>
+venue: Phys. Rev. E <b>112</b>, 044408 
 authors: 'D. Zanchetta, A. Maritan and S. Azaele'
-paperurl: https://www.biorxiv.org/content/10.1101/2024.08.01.606184v1
+paperurl: https://journals.aps.org/pre/abstract/10.1103/yb33-f24m
 preprinturl: 
-citation: 'D. Zanchetta, A. Maritan and S. Azaele (2025) Modelling post-disturbance empirical patterns in a forest ecosystem. <i>bioRxiv</i>'
+citation: 'D. Zanchetta, A. Maritan and S. Azaele (2025) Modelling post-disturbance empirical patterns in a forest ecosystem. <i>Phys. Rev. E</i>'
+doi: https://doi.org/10.1103/yb33-f24m
 ---
